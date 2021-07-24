@@ -20,6 +20,9 @@ Link 2 web on your paper scrum or kanban board 😉
 **easy-backup** \
 Super simple backup tool
 
+**markdownify** \
+Turn plain content in markdown
+
 
 ## Application components
 
@@ -50,9 +53,6 @@ Supercharges YAML (adds include feature)
 
 **parsedown-user-styles** \
 User defined syntax for ParsedownExtra
-
-**markdownify** \
-Turn plain content in markdown
 
 **php-classic** \
 Forked from joni2back/php-classic
