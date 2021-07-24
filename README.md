@@ -31,29 +31,14 @@ name | what
 [super-yaml](https://github.com/walter-a-jablonowski/super-yaml) | Supercharges YAML (adds include feature)
 [parsedown-user-styles](https://github.com/walter-a-jablonowski/parsedown-user-styles) | User defined syntax for ParsedownExtra
 [php-classic](https://github.com/walter-a-jablonowski/php-classic) | Forked from joni2back/php-classic 🎯 PHP libraries
-
-### Misc
-
-name | what
--|-
 [js-lib](https://github.com/walter-a-jablonowski/js-lib) | Some js for use in my github projects
 [php-lib](https://github.com/walter-a-jablonowski/php-lib) | Some PHP for use in my github projects
 [styles-lib](https://github.com/walter-a-jablonowski/styles-lib) | Some styles for use in my github projects
 
-## Code
+## No code, personal homepage
 
 name | what
 -|-
 [awesome-code](https://github.com/walter-a-jablonowski/awesome-code) | Awesome code samples from my personal collection
-
-## Management
-
-name | what
--|-
 [awesome-self-management](https://github.com/walter-a-jablonowski/awesome-self-management) | Most valuable advice
-
-## Personal homepage
-
-name | what
--|-
 [walter-a-jablonowski.github.io](https://github.com/walter-a-jablonowski/walter-a-jablonowski.github.io) | Home of Walter A. Jablonowski
