@@ -5,84 +5,84 @@ Some of my fun projects in various stages of development, I am no full time open
 
 ## Applications and tools
 
-**code-scrum** \
+[code-scrum](https://github.com/walter-a-jablonowski/code-scrum)
 Your code is your backlog
 
-**git-scrum** \
+[git-scrum](https://github.com/walter-a-jablonowski/git-scrum)
 Data file based SCRUM, IDE-integrated, git is backend
 
-**sticky-board** \
+[sticky-board](https://github.com/walter-a-jablonowski/sticky-board)
 Turn all files in a folder in a board (currently md files only)
 
-**scrum-board-links** \
+[scrum-board-links](https://github.com/walter-a-jablonowski/scrum-board-links)
 Link 2 web on your paper scrum or kanban board 😉
 
-**easy-backup** \
+[easy-backup](https://github.com/walter-a-jablonowski/easy-backup)
 Super simple backup tool
 
-**markdownify** \
+[markdownify](https://github.com/walter-a-jablonowski/markdownify)
 Turn plain content in markdown
 
 
 ## Application components
 
-**json-db** \
+[json-db](https://github.com/walter-a-jablonowski/json-db)
 Minimal JSON db
 
-**damn-small-engine** \
+[damn-small-engine](https://github.com/walter-a-jablonowski/damn-small-engine)
 PHP low code templating system
 
-**mustache.php** \
+[mustache.php](https://github.com/walter-a-jablonowski/mustache.php)
 Forked from bobthecow/mustache.php
 A Mustache implementation in PHP.
 
-**inc** \
+[inc](https://github.com/walter-a-jablonowski/inc)
 Most tiny templating engine
 
-**simple-obj-log** \
+[simple-obj-log](https://github.com/walter-a-jablonowski/simple-obj-log)
 Simple log with object entries, no plain text
 
-**ClassLoader** \
+[ClassLoader](https://github.com/walter-a-jablonowski/ClassLoader)
 Self-updating PHP class loader
 
 
 ## Libraries
 
-**super-yaml** \
+[super-yaml](https://github.com/walter-a-jablonowski/super-yaml)
 Supercharges YAML (adds include feature)
 
-**parsedown-user-styles** \
+[parsedown-user-styles](https://github.com/walter-a-jablonowski/parsedown-user-styles)
 User defined syntax for ParsedownExtra
 
-**php-classic** \
+[php-classic](https://github.com/walter-a-jablonowski/php-classic)
 Forked from joni2back/php-classic
 🎯 PHP libraries to be used as helpers in any project - Curl, Error handler, Autoloader, Ftp, Shell, Exception, Console, etc
 
 ### Misc
 
-**js-lib** \
+[js-lib](https://github.com/walter-a-jablonowski/js-lib)
 Some js for use in my github projects
 
-**php-lib** \
+[php-lib](https://github.com/walter-a-jablonowski/php-lib)
 Some PHP for use in my github projects
 
-**styles-lib** \
+[styles-lib](https://github.com/walter-a-jablonowski/styles-lib)
 Some styles for use in my github projects
 
 
 ## Code
 
-**awesome-code** \
+[awesome-code](https://github.com/walter-a-jablonowski/awesome-code)
 Awesome code samples from my personal collection
 
 
 ## Management
 
-**awesome-self-management** \
+[awesome-self-management](https://github.com/walter-a-jablonowski/awesome-self-management)
 Most valuable advice
 
 
 ## Personal homepage
 
-**walter-a-jablonowski.github.io** \
+[walter-a-jablonowski.github.io](https://github.com/walter-a-jablonowski/walter-a-jablonowski.github.io)
 Home of Walter A. Jablonowski - Web, SQL, Apps - Bamberg, Germany
